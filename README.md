@@ -3,4 +3,4 @@
 - CRUD기능구현
 # Skil
 - React.js
-- Redux
+- React.Redux
